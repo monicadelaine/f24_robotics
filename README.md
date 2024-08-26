@@ -1,4 +1,4 @@
-# Repository for UA CS460/560 - Fall 2023
+# Repository for UA CS460/560 - Fall 2024
 
 **Links to ROS resources**
 
