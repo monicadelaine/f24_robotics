@@ -3,7 +3,7 @@
 
 Launch command
 <pre>
-ros2 launch webots\_apriltags webots\_apriltags.launch.py
+ros2 launch webots_apriltags webots_apriltags.launch.py
 </pre>
 
 Notes: To get image in Webots, you must subscribe to the camera message.  One way to accomplish this is to echo messages from the topic:
